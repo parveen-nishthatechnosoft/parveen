@@ -1,4 +1,4 @@
-### **Greetings, I'm Parveen Kumar 👋**  
+### **Greetings, I'm Parveen  👋**  
 #### Full Stack Developer | Crafting Scalable, Robust, and Innovative Solutions with **Laravel**, **React**, **Next.js**, **Node.js**, and **Cloud Technologies** 🚀
 
 💻 Passionate about designing seamless, intuitive user interfaces and building high-performance backend systems.  
