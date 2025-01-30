@@ -1,8 +1,8 @@
-### **Greetings, I'm Parveen  👋**  
+### **Greetings, I'm Parveen 👋**  
 #### Full Stack Developer | Crafting Scalable, Robust, and Innovative Solutions with **Laravel**, **React**, **Next.js**, **Node.js**, and **Cloud Technologies** 🚀
 
 💻 Passionate about designing seamless, intuitive user interfaces and building high-performance backend systems.  
-🌐 Over [X] years of experience developing full-stack web applications that are both efficient and scalable.  
+🌐 Over 9 years of experience developing full-stack web applications that are both efficient and scalable.  
 🔧 Proficient in both frontend and backend development, with expertise in creating secure, performant, and maintainable code.  
 📚 Constantly expanding my knowledge and keeping up-to-date with the latest technologies to deliver state-of-the-art solutions.
 
@@ -13,6 +13,7 @@ Let's connect and create something impactful together! 💬
 I'm **Parveen Kumar**, a highly skilled full-stack developer with expertise in **PHP**, **Node.js**, **Laravel**, **WordPress**, **React**, **React Native**, and **Angular**. I specialize in architecting scalable and maintainable solutions while leveraging the latest technologies to deliver seamless, responsive, and dynamic web applications. Whether it's building complex backend systems or crafting engaging front-end experiences, I thrive on delivering high-quality, scalable applications.
 
 Let’s collaborate to bring your ideas to life and create extraordinary results! 🌟
+
 ---
 
 ## :wave: **Connect with Me**  
@@ -32,6 +33,8 @@ Let’s collaborate to bring your ideas to life and create extraordinary results
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)  
+![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ---
 
@@ -42,7 +45,9 @@ Let’s collaborate to bring your ideas to life and create extraordinary results
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ---
 
@@ -50,8 +55,11 @@ Let’s collaborate to bring your ideas to life and create extraordinary results
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -59,17 +67,18 @@ Let’s collaborate to bring your ideas to life and create extraordinary results
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)  
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)  
+![Apollo GraphQL](https://img.shields.io/badge/apollo%20graphql-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 ---
 
 ### **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
- 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
@@ -84,7 +93,6 @@ Let’s collaborate to bring your ideas to life and create extraordinary results
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=parveen-nishthatechnosoft&theme=tokyonight)
 
-
---- 
+---
 
 Let me know if this works or needs more customization!
